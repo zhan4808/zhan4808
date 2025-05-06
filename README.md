@@ -2,7 +2,7 @@ hi there! i'm robert.
 
 currently studying ee+cs [@purdue](https://github.com/purdue) and building [products](https://slynk.studio/) that people will see and actually use. 
 
-also working at [endian](https://endianai.framer.website/)
+also building at [endian](https://endianai.framer.website/)
 <!--
 - 🌐 website: [robertzhang.me](https://robertzhang.me/)
 - 📧 email: robert@endian.ai
