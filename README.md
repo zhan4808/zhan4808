@@ -49,6 +49,8 @@ also working at [endian](https://endianai.framer.website/)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhan4808&layout=compact&theme=nord)
 -->
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=zhan4808&theme=transparent)](https://git.io/streak-stats)
+
+![](https://komarev.com/ghpvc/?username=zhan4808&color=blue&style=flat-square)
 <!---
 zhan4808/zhan4808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
