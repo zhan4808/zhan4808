@@ -1,6 +1,6 @@
 hi there! i'm robert.
 
-currently studying ee+cs [@purdue](https://github.com/purdue) and building [products](https://github.com/zhan4808/socialmesh) that people will see and actually use. 
+currently studying ee+cs [@purdue](https://github.com/purdue) and building [products](https://slynk.studio/) that people will see and actually use. 
 
 also working at [endian](https://endianai.framer.website/)
 <!--
