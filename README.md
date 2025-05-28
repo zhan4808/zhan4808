@@ -1,6 +1,6 @@
 hi there! i'm robert.
 
-currently studying ee+cs [@purdue](https://github.com/purdue) and building products such as [slynk](https://slynk.studio/), [socialmesh](https://socialmesh.me/), [purdueranked](https://purdueranked.vercel.app/), [tiny-gemm](https://github.com/zhan4808/tiny-gemm) for people to see and actually use. check out my website too!
+currently studying ee+cs [@purdue](https://github.com/purdue) and building products such as [slynk](https://slynk.studio/), [socialmesh](https://socialmesh.me/), [purdueranked](https://purdueranked.vercel.app/), [tiny-gemm](https://github.com/zhan4808/tiny-gemm) for people to see and actually use.
 
 also building at [endian](https://endianai.framer.website/)
 <!--
