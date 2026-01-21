@@ -1,8 +1,8 @@
 hi there! i'm robert.
 
-currently studying ee+cs [@purdue](https://github.com/purdue) and building products such as [slynk](https://slynk.studio/), [socialmesh](https://socialmesh.me/), [purdueranked](https://purdueranked.vercel.app/), [tiny-gemm](https://github.com/zhan4808/tiny-gemm) for people to see and actually use.
+currently studying ee+cs [@purdue](https://github.com/purdue).
+reach me at: zhan4808@purdue.edu
 
-also building at [endian](https://endianai.framer.website/)
 <!--
 - 🌐 website: [robertzhang.me](https://robertzhang.me/)
 - 📧 email: robert@endian.ai
@@ -13,12 +13,10 @@ also building at [endian](https://endianai.framer.website/)
 [![email](https://img.shields.io/badge/Email-robert%40endian.ai-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robert@endian.ai)
 [![linkedin](https://img.shields.io/badge/LinkedIn-robert05-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert05/)
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/23RobertZ)
--->
 [![website](https://img.shields.io/badge/-robertzhang.me-4285F4?style=flat-square&logo=firefox-browser&logoColor=white&labelColor=4285F4)](https://robertzhang.me/)
 [![email](https://img.shields.io/badge/-robert@endian.ai-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:robert@endian.ai)
 [![linkedin](https://img.shields.io/badge/-linkedin.com/in/robert05-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/robert05/)
-[![spotify](https://img.shields.io/badge/-spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/23robertz?si=dc2ccbcf65c94645)
-<!--
+<!--[![spotify](https://img.shields.io/badge/-spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/23robertz?si=dc2ccbcf65c94645)
 [![](https://img.shields.io/badge/Website-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://robertzhang.me/) 
 [![](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:robert@endian.ai) 
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert05/)
