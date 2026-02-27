@@ -1,6 +1,6 @@
 hi there! i'm robert.
 
-currently studying ee+ai [@purdue](https://github.com/purdue).  
+currently studying electrical engineering [@purdue](https://github.com/purdue).  
 reach me at: zhan4808@purdue.edu
 
 <!--
